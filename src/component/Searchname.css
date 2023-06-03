@@ -1,0 +1,39 @@
+.searchnmbg{
+    background-color:  rgb(5, 157, 181);
+    width: 100vw;
+    height: 100vh;
+}
+.srchnmhd{
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+  
+}
+.srchnmic{
+    font-size: 3rem;
+    margin-top: 1rem;
+}
+.srchnminp{
+    display: flex;
+    margin-top: 4rem;
+    font-weight: bold;
+    font-size: large;
+    gap: 2rem;
+    justify-content: center;
+}
+.srchl{
+    background-color: rgb(4, 4, 4);
+    width: 22rem;
+    height: 0.05rem;
+    margin-top: 0.5rem;
+    margin-left: 37rem;
+}
+.srchnmdisp{
+    display: flex;
+    margin-top: 3rem;
+    background-color: aquamarine;
+ 
+    height: 5rem;
+    justify-content:center;
+}

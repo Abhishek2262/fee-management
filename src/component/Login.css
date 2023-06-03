@@ -1,0 +1,62 @@
+.login{
+    background-color: rgb(5, 157, 181);
+    color: white;
+    
+    width: 100%;
+    height: 49.5rem;
+}
+.logdiv{
+    background: rgb(8, 99, 100);
+    text-align: center;
+    font-weight:bold;
+    font-size:xx-large;
+    height: 5rem;
+    padding: 5px;
+    margin: 0px;
+    
+}
+.buttons{
+    padding: 10px;
+    margin: 2rem;
+  display: flex;
+  justify-content: center;
+}
+.username, .password{
+    text-align: center;
+    margin: 20px;
+    font-size: large;
+ 
+    padding: 10px;
+   
+    align-items: flex-start;
+}
+
+
+ .password1, .userid{
+    border: 1px solid;
+    width: 12rem;
+    height: 1.4rem;
+    border-radius: 5px;
+}
+
+.loginbutton, .signupbutton,.exit{
+    border: 10px;
+    background-color: rgb(8, 99, 100);
+    color: white;
+    padding: 8px;
+    margin: 2rem;
+    height: 1.9rem;
+    width: 6rem;
+    border-radius: 5px;
+}
+.fsig{
+    margin: 2rem;
+    display: flex;
+    justify-content:center;
+}
+.forgotpassword,.signup{
+    
+    font-size: large;
+    text-align:center;
+    margin: 7px;
+}

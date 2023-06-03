@@ -1,0 +1,68 @@
+.addf{
+    background-color:  rgb(5, 157, 181);
+    width: 100vw;
+    height: 100vh;
+   
+}
+.addf1{
+    width: 90vw;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2rem;
+}
+
+.addmiss{
+    display: flex;
+    gap: 10px;
+    max-height: 2rem;
+    width: 26rem;
+    font-weight: bold;
+    flex-direction: row;
+}
+.addmiss1{
+   font-size: 18px;
+   font-weight: bold;
+   max-height: 1.5rem;
+    padding-top: 1rem;
+    display: flex;
+    gap: 10px;
+ 
+    
+}
+.add1{
+    margin-left: 2rem;
+   
+    
+}
+.selec{
+    margin-left: 28px;
+}
+.line{
+    height: 0.125rem;
+    width: 80rem;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    background-color: black;
+}
+.addmiss2{
+    display: flex;
+    gap: 10px;
+    max-height: 2rem;
+    width: 26rem;
+    font-weight: bold;
+    flex-direction: row;
+    gap: 30rem;
+    margin-top: 5px;
+}
+.line2{
+    height: 0.145rem;
+    width: 80rem;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    background-color: black;
+}
+.btnprnt{
+    margin-left: 67rem;
+    width: 5rem;
+    height: 2rem;
+}

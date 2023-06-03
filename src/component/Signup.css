@@ -1,0 +1,80 @@
+.signh1{
+    padding: 7px;
+    color: white;
+}
+.signup1{
+    background-color:  rgb(8, 99, 100);
+    text-align: center;
+    height: 5rem;
+  
+   
+}
+.signuppg{
+    background-color: rgb(5, 157, 181);
+    height: 100vh; 
+   
+}
+.signup2{
+    display:slex;
+    justify-content:center;
+    margin: 12px;
+    padding: 10px;
+    padding-top: 15px;
+    min-height: 15rem;
+    
+  
+}
+.firstname, .lastname,.useridsign,.passwordsign,.cnfrmpass, .dob, .contact{
+    margin: 9px;
+    color: white;
+    padding: 3px;
+    font-size: 20px;
+    font-weight:600;
+   
+
+}
+.inpt1, .inpt2, .inpt3, .inpt4, .inpt5, .inpt7  {
+    height: 1rem;
+    padding: 3px;
+    margin: 10.5px;
+    border: 10px;
+    border-radius: 5px;
+    
+}
+.inpt6{
+   width: 10.5rem;
+   margin: 8px;
+   height: 1.3rem;
+   border: 10px;
+   border-radius: 3px;
+}
+
+.buttonsign{
+    display: flex;
+    justify-content: center;
+
+}
+.alliswell{
+    display: flex;
+    justify-content: center; 
+    margin-bottom: 3rem;  
+}
+.inptbox{
+    width: 15rem;
+    margin-top: 29px;
+}
+.signbtn, .backbtn{
+    background-color: rgb(8, 99, 100);
+    margin: 2rem;
+    padding: 8px;
+    color: white;
+    width: 6rem;
+    height: 1.9rem;
+    font-weight: 700;
+    border: 10px;
+    font-size: 1.6ch;
+    border-radius: 5px;
+
+}
+
+
